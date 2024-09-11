@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+h1, h2 p{
+    margin: 0px;
+    text-align: center;
+}
+
+.container{
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#rodape {
+    text-align: center; /* Centraliza o texto */
+    padding: 100px; /* Espaçamento interno opcional */
+}
